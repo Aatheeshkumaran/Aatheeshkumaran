@@ -60,7 +60,7 @@ I'm a <b>Full-Stack Developer & Technical Mentor</b> who enjoys building practic
 
 <td width="45%" align="center">
 
-<img src="./assets/about-me.png" width="450">
+<img src="./assets/About-me (2).png" width="450">
 
 </td>
 
