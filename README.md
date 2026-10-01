@@ -1,190 +1,100 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Aatheesh Kumaran
-
-### Full-Stack Developer • Python Developer • Technical Mentor
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+things+with+code+%F0%9F%9A%80;Python+%7C+Django+%7C+React+%7C+Java;Learning+Spring+Boot+%F0%9F%94%A5;Technical+Mentor+%7C+Problem+Solver;Debug+yourself+daily+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0e75b6,100:38bdf8&height=200&section=header&text=AATHEESH%20KUMARAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Technical%20Mentor&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<a href="https://github.com/Aatheeshkumaran">
-<img src="https://komarev.com/ghpvc/?username=aatheeshkumaran&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+React+%7C+Java;Learning+Spring+Boot+%F0%9F%94%A5;Technical+Mentor+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Building+Projects+%7C+Learning+%7C+Debugging;Debug+yourself+daily+%F0%9F%94%A7" />
 
-<a href="https://github.com/Aatheeshkumaran?tab=followers">
-<img src="https://img.shields.io/github/followers/Aatheeshkumaran?label=Followers&style=for-the-badge&color=0e75b6" />
-</a>
+<br><br>
 
-<a href="https://github.com/Aatheeshkumaran?tab=repositories">
-<img src="https://img.shields.io/github/stars/Aatheeshkumaran?label=Stars&style=for-the-badge&color=0e75b6" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=aatheeshkumaran&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Aatheeshkumaran?label=FOLLOWERS&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/stars/Aatheeshkumaran?label=STARS&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
----
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
 
-```python
-class Aatheesh:
+<h2 align="center">👨‍💻 About Me</h2>
 
-    role = "Full-Stack Developer & Technical Mentor"
-
-    languages = [
-        "Python",
-        "JavaScript",
-        "Java",
-        "HTML",
-        "CSS"
-    ]
-
-    frameworks = [
-        "Django",
-        "React",
-        "Spring Boot"
-    ]
-
-    databases = [
-        "MySQL",
-        "MongoDB"
-    ]
-
-    currently_learning = "Spring Boot"
-
-    currently_building = "Local AI Assistant"
-
-    philosophy = "Debug yourself daily."
-```
-
-I'm a developer who enjoys building **web applications, backend systems, AI-powered tools and practical projects**.
-
-I also work as a **Technical Mentor**, helping students understand programming and development concepts from the ground up.
-
----
-
-## 🚀 What I'm Currently Doing
-
-* 🔭 Building **[Local AI Assistant](https://github.com/Aatheeshkumaran/jarvis_local-assistant)**
-* 🌱 Learning **Spring Boot & Java Backend Development**
-* 👨‍🏫 Working as a **Technical Mentor**
-* 💻 Building full-stack applications with **Python, Django & React**
-* 🧠 Improving my **DSA & problem-solving skills**
-* 🛠️ Exploring backend architecture and APIs
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=django,react,spring,bootstrap" />
-
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
+<table align="center">
 <tr>
 
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🤖 Local AI Assistant
+### Hey! I'm Aatheesh 👋
 
-A local AI assistant built using Python and conversational AI technologies.
+I'm a **Full-Stack Developer and Technical Mentor** who enjoys turning ideas into practical applications.
 
-**Tech:** Python • AI • NLP
+💻 I work mainly with **Python, Django, React and Java**
+
+🌱 Currently exploring **Spring Boot & Java Backend Development**
+
+🤖 Interested in **AI-powered applications**
+
+🧠 Currently improving my **DSA & problem-solving skills**
+
+👨‍🏫 I also enjoy teaching programming and helping beginners understand development.
+
+🚀 I believe in learning by building real projects.
 
 <br>
 
-<a href="https://github.com/Aatheeshkumaran/jarvis_local-assistant">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
+> **"Debug yourself daily."** 💻
 
 </td>
 
-<td width="50%">
+<td width="45%" align="center">
 
-### 💰 Finance Tracker
-
-A Django-based finance management application for tracking personal expenses and financial data.
-
-**Tech:** Python • Django • MySQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🛡️ AI Social Media Threat Monitoring
-
-An AI-powered system designed to identify and monitor potential threats across social media platforms.
-
-**Tech:** Python • AI • Data Processing
-
-</td>
-
-<td width="50%">
-
-### 🌐 Developer Portfolio
-
-My personal developer portfolio showcasing my projects, skills and experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-<br>
-
-<a href="https://aatheeshkumaran.github.io/dev_portfolio/">
-<img src="https://img.shields.io/badge/Live%20Portfolio-0e75b6?style=for-the-badge" />
-</a>
+<img src="https://raw.githubusercontent.com/Anjali-1807/Anjali-1807/main/assets/programmer.gif" width="350"/>
 
 </td>
 
 </tr>
 </table>
 
----
 
-## 📊 GitHub Statistics
+<!-- ===================== CURRENTLY ===================== -->
+
+<h2 align="center">🔥 What I'm Currently Doing</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aatheeshkumaran&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+| 🔭 Building | 🌱 Learning | 👨‍🏫 Doing |
+|---|---|---|
+| Local AI Assistant | Spring Boot | Technical Mentoring |
+| Full-Stack Projects | Java Backend | Teaching Programming |
+| Backend APIs | DSA | Building Projects |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatheeshkumaran&layout=compact&hide_border=true&langs_count=8" />
+</div>
+
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,django,spring,mysql,mongodb,git,github,postman,vscode,figma&perline=5" />
+
+</p>
+
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aatheeshkumaran&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatheeshkumaran&layout=compact&langs_count=8&hide_border=true" />
 
 </div>
 
@@ -196,62 +106,158 @@ My personal developer portfolio showcasing my projects, skills and experience.
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
+<!-- ===================== TROPHIES ===================== -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aatheeshkumaran&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</p>
+
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 Local AI Assistant</h3>
+
+<p>
+A local AI assistant built using Python and conversational AI technologies.
+</p>
+
+<p>
+<b>Python • AI • NLP</b>
+</p>
+
+<a href="https://github.com/Aatheeshkumaran/jarvis_local-assistant">
+<img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💰 Finance Tracker</h3>
+
+<p>
+A Django-based application for managing and tracking personal financial data.
+</p>
+
+<p>
+<b>Python • Django • MySQL</b>
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Social Media Threat Monitoring</h3>
+
+<p>
+An AI-powered system designed to monitor and identify potential threats across social platforms.
+</p>
+
+<p>
+<b>Python • AI • Data Processing</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Developer Portfolio</h3>
+
+<p>
+My personal portfolio showcasing my projects, skills and development journey.
+</p>
+
+<a href="https://aatheeshkumaran.github.io/dev_portfolio/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-0e75b6?style=for-the-badge&logo=firefox"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<!-- ===================== CONTRIBUTION ===================== -->
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Aatheeshkumaran/Aatheeshkumaran/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+
+<!-- ===================== ACTIVITY ===================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aatheeshkumaran&hide_border=true&area=true" width="95%"/>
+
+</p>
+
+
+<!-- ===================== QUOTE ===================== -->
+
+<h2 align="center">💭 Random Developer Quote</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aatheeshkumaran&theme=flat&no-frame=true&margin-w=10&column=7" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
----
 
-## 🐍 Contribution Graph
+<!-- ===================== CONNECT ===================== -->
 
-<div align="center">
+<h2 align="center">🤝 Let's Connect</h2>
 
-<img src="https://raw.githubusercontent.com/Aatheeshkumaran/Aatheeshkumaran/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aatheeshkumaran&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/aatheeshkumaran">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aatheesh1e@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://aatheeshkumaran.github.io/dev_portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
----
+
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
 
-### 💻 "Debug yourself daily."
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+### 💻 Build. Break. Debug. Learn. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:0e75b6,100:0f172a&height=120&section=footer"/>
 
 </div>
