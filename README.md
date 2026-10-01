@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+React+%7C+Java;Learning+Spring+Boot+%F0%9F%94%A5;Technical+Mentor+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Building+Projects+%7C+Learning+%7C+Debugging;Debug+yourself+daily+%F0%9F%94%A7" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+React+%7C+Java;Learning+Spring+Boot+%F0%9F%94%A5;Technical+Mentor+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;Building+Projects+%7C+Learning+%7C+Debugging;Debug+yourself+daily+%F0%9F%94%A7">
 
 <br><br>
 
@@ -32,31 +32,35 @@
 
 <td width="55%" valign="top">
 
-### Hey, I'm Aatheesh 👋
+<h3>Hey, I'm Aatheesh 👋</h3>
 
-I'm a **Full-Stack Developer & Technical Mentor** who enjoys building practical applications and helping others learn technology.
+<p>
+I'm a <b>Full-Stack Developer & Technical Mentor</b> who enjoys building practical applications and helping others learn technology.
+</p>
 
-💻 I work with **Python, Django, React, Java & JavaScript**
+<p>💻 I work with <b>Python, Django, React, Java & JavaScript</b></p>
 
-🌱 Currently learning **Spring Boot & Java Backend Development**
+<p>🌱 Currently learning <b>Spring Boot & Java Backend Development</b></p>
 
-🤖 Interested in **AI-powered applications and automation**
+<p>🤖 Interested in <b>AI-powered applications and automation</b></p>
 
-🧠 Improving my **DSA & problem-solving skills**
+<p>🧠 Improving my <b>DSA & problem-solving skills</b></p>
 
-👨‍🏫 Working as a **Technical Mentor**, helping students learn programming and development.
+<p>👨‍🏫 Working as a <b>Technical Mentor</b>, helping students learn programming and development.</p>
 
-🚀 I learn by **building real-world projects** and experimenting with new technologies.
+<p>🚀 I learn by <b>building real-world projects</b> and experimenting with new technologies.</p>
 
 <br>
 
-> 💡 **Debug yourself daily.**
+<blockquote>
+💡 <b>Debug yourself daily.</b>
+</blockquote>
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/Anjali-1807/Anjali-1807/main/assets/programmer.gif" width="350">
+<img src="./assets/about-me.png" width="450">
 
 </td>
 
@@ -76,37 +80,55 @@ I'm a **Full-Stack Developer & Technical Mentor** who enjoys building practical 
 
 <td align="center" width="33%">
 
-### 🤖 Building
+<h3>🤖 Building</h3>
 
+<p>
 Local AI Assistant
+</p>
 
+<p>
 Full-Stack Applications
+</p>
 
+<p>
 Backend APIs
+</p>
 
 </td>
 
 <td align="center" width="33%">
 
-### 🌱 Learning
+<h3>🌱 Learning</h3>
 
+<p>
 Spring Boot
+</p>
 
+<p>
 Java Backend
+</p>
 
+<p>
 DSA & Problem Solving
+</p>
 
 </td>
 
 <td align="center" width="33%">
 
-### 👨‍🏫 Mentoring
+<h3>👨‍🏫 Mentoring</h3>
 
+<p>
 Python
+</p>
 
+<p>
 Web Development
+</p>
 
+<p>
 Backend Development
+</p>
 
 </td>
 
@@ -177,7 +199,9 @@ A local AI assistant built with Python and conversational AI technologies.
 </p>
 
 <a href="https://github.com/Aatheeshkumaran/jarvis_local-assistant">
+
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </td>
@@ -223,7 +247,9 @@ My personal portfolio showcasing projects, skills and my development journey.
 </p>
 
 <a href="https://aatheeshkumaran.github.io/dev_portfolio/">
+
 <img src="https://img.shields.io/badge/Visit%20Portfolio-0e75b6?style=for-the-badge&logo=firefox&logoColor=white">
+
 </a>
 
 </td>
@@ -345,7 +371,7 @@ My personal portfolio showcasing projects, skills and my development journey.
 
 <div align="center">
 
-### 💻 Build. Break. Debug. Learn. Repeat.
+<h3>💻 Build. Break. Debug. Learn. Repeat.</h3>
 
 <br>
 
