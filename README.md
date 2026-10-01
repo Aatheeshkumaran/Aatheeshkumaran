@@ -82,17 +82,11 @@ I'm a <b>Full-Stack Developer & Technical Mentor</b> who enjoys building practic
 
 <h3>🤖 Building</h3>
 
-<p>
-Local AI Assistant
-</p>
+<p>Local AI Assistant</p>
 
-<p>
-Full-Stack Applications
-</p>
+<p>Full-Stack Applications</p>
 
-<p>
-Backend APIs
-</p>
+<p>Backend APIs</p>
 
 </td>
 
@@ -100,17 +94,11 @@ Backend APIs
 
 <h3>🌱 Learning</h3>
 
-<p>
-Spring Boot
-</p>
+<p>Spring Boot</p>
 
-<p>
-Java Backend
-</p>
+<p>Java Backend</p>
 
-<p>
-DSA & Problem Solving
-</p>
+<p>DSA & Problem Solving</p>
 
 </td>
 
@@ -118,17 +106,11 @@ DSA & Problem Solving
 
 <h3>👨‍🏫 Mentoring</h3>
 
-<p>
-Python
-</p>
+<p>Python</p>
 
-<p>
-Web Development
-</p>
+<p>Web Development</p>
 
-<p>
-Backend Development
-</p>
+<p>Backend Development</p>
 
 </td>
 
@@ -280,45 +262,6 @@ My personal portfolio showcasing projects, skills and my development journey.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatheeshkumaran&hide_border=true">
 
 </div>
-
-
-<!-- ===================================================== -->
-<!--                    TROPHIES                           -->
-<!-- ===================================================== -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aatheeshkumaran&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7">
-
-</p>
-
-
-<!-- ===================================================== -->
-<!--                CONTRIBUTION GRAPH                     -->
-<!-- ===================================================== -->
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Aatheeshkumaran/Aatheeshkumaran/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-</p>
-
-
-<!-- ===================================================== -->
-<!--                 ACTIVITY GRAPH                        -->
-<!-- ===================================================== -->
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aatheeshkumaran&hide_border=true&area=true" width="95%">
-
-</p>
 
 
 <!-- ===================================================== -->
